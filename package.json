@@ -5,6 +5,7 @@
   "description": "Course materials for the Rebase academy.",
   "license": "MIT",
   "dependencies": {
+    "@emotion/css": "^11.10.5",
     "@rocketseat/gatsby-theme-docs": "^2.3.0",
     "gatsby": "^3.0.4",
     "gatsby-plugin-canonical-urls": "^3.0.0",
