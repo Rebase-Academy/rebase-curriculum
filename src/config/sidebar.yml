@@ -10,6 +10,8 @@
       link: '/prework/prework-test'
     - label: 'Further reading'
       link: '/prework/further-reading'
+    - label: 'Test'
+      link: '/prework/test-section'
 - label: 'Git'
   items:
     - label: 'Introduction'
